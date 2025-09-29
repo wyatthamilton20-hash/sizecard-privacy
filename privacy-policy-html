@@ -6,6 +6,7 @@
         body { font-family: Arial, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; line-height: 1.6; }
         h1 { color: #333; }
         h2 { color: #555; margin-top: 30px; }
+        h3 { color: #666; margin-top: 20px; }
     </style>
 </head>
 <body>
@@ -13,95 +14,94 @@
     <p><strong>Last Updated: September 29, 2025</strong></p>
     
     <h2>Introduction</h2>
-<p>Welcome to SizeCard. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.</p>
+    <p>Welcome to SizeCard. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.</p>
 
-<h2>Information We Collect</h2>
+    <h2>Information We Collect</h2>
 
-<h3>Personal Information</h3>
-<ul>
-    <li>Account Information: Name, email address, phone number (optional)</li>
-    <li>Profile Data: Gender, age, relationship information</li>
-    <li>Sizing Information: Clothing measurements and preferences</li>
-    <li>Family Member Information: Names and sizing information for family members you add</li>
-    <li>Share Codes: Unique 6-character codes for sharing sizing cards</li>
-</ul>
+    <h3>Personal Information</h3>
+    <ul>
+        <li>Account Information: Name, email address, phone number (optional)</li>
+        <li>Profile Data: Gender, age, relationship information</li>
+        <li>Sizing Information: Clothing measurements and preferences</li>
+        <li>Family Member Information: Names and sizing information for family members you add</li>
+        <li>Share Codes: Unique 6-character codes for sharing sizing cards</li>
+    </ul>
 
-<h3>Usage Data</h3>
-<ul>
-    <li>App Usage: Features used, time spent in app, interactions</li>
-    <li>Device Information: iOS version, device model, app version</li>
-    <li>Performance Data: Crash reports, error logs, app performance metrics</li>
-    <li>Analytics Data: User behavior patterns and feature usage</li>
-</ul>
+    <h3>Usage Data</h3>
+    <ul>
+        <li>App Usage: Features used, time spent in app, interactions</li>
+        <li>Device Information: iOS version, device model, app version</li>
+        <li>Performance Data: Crash reports, error logs, app performance metrics</li>
+        <li>Analytics Data: User behavior patterns and feature usage</li>
+    </ul>
 
-<h2>How We Use Your Information</h2>
+    <h2>How We Use Your Information</h2>
 
-<h3>Core App Functionality</h3>
-<ul>
-    <li>Account Management: Create and maintain your user account</li>
-    <li>Sizing Cards: Store and organize your clothing measurements</li>
-    <li>Family Sharing: Share sizing information with family members</li>
-    <li>Deep Linking: Enable sharing of sizing cards via links</li>
-</ul>
+    <h3>Core App Functionality</h3>
+    <ul>
+        <li>Account Management: Create and maintain your user account</li>
+        <li>Sizing Cards: Store and organize your clothing measurements</li>
+        <li>Family Sharing: Share sizing information with family members</li>
+        <li>Deep Linking: Enable sharing of sizing cards via links</li>
+    </ul>
 
-<h3>Communication</h3>
-<ul>
-    <li>Notifications: Send updates about sizing changes and app features</li>
-    <li>Email Communications: Welcome emails, subscription confirmations, password resets</li>
-    <li>Support: Respond to your inquiries and provide customer service</li>
-</ul>
+    <h3>Communication</h3>
+    <ul>
+        <li>Notifications: Send updates about sizing changes and app features</li>
+        <li>Email Communications: Welcome emails, subscription confirmations, password resets</li>
+        <li>Support: Respond to your inquiries and provide customer service</li>
+    </ul>
 
-<h2>Third-Party Services</h2>
-<p>We use the following third-party services:</p>
-<ul>
-    <li>Firebase (Google): Authentication, database, cloud functions, crashlytics</li>
-    <li>RevenueCat: Subscription management and payment processing</li>
-    <li>Apple Services: App Store, Keychain, push notifications</li>
-    <li>Expo: Development platform and analytics</li>
-</ul>
+    <h2>Third-Party Services</h2>
+    <p>We use the following third-party services:</p>
+    <ul>
+        <li>Firebase (Google): Authentication, database, cloud functions, crashlytics</li>
+        <li>RevenueCat: Subscription management and payment processing</li>
+        <li>Apple Services: App Store, Keychain, push notifications</li>
+        <li>Expo: Development platform and analytics</li>
+    </ul>
 
-<h2>Data Security</h2>
-<p>We implement industry-standard security measures:</p>
-<ul>
-    <li>AES-256 encryption for sensitive data</li>
-    <li>HTTPS with certificate pinning</li>
-    <li>iOS Keychain with biometric protection</li>
-    <li>Firebase security rules and access controls</li>
-    <li>Regular security audits and updates</li>
-</ul>
+    <h2>Data Security</h2>
+    <p>We implement industry-standard security measures:</p>
+    <ul>
+        <li>AES-256 encryption for sensitive data</li>
+        <li>HTTPS with certificate pinning</li>
+        <li>iOS Keychain with biometric protection</li>
+        <li>Firebase security rules and access controls</li>
+        <li>Regular security audits and updates</li>
+    </ul>
 
-<h2>User Rights</h2>
-<p>You have the right to:</p>
-<ul>
-    <li>Access your personal information</li>
-    <li>Correct inaccurate information</li>
-    <li>Export your sizing data</li>
-    <li>Delete your account and data</li>
-    <li>Opt-out of marketing communications</li>
-    <li>Manage notification preferences</li>
-</ul>
+    <h2>User Rights</h2>
+    <p>You have the right to:</p>
+    <ul>
+        <li>Access your personal information</li>
+        <li>Correct inaccurate information</li>
+        <li>Export your sizing data</li>
+        <li>Delete your account and data</li>
+        <li>Opt-out of marketing communications</li>
+        <li>Manage notification preferences</li>
+    </ul>
 
-<h2>Children's Privacy</h2>
-<p>SizeCard is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.</p>
+    <h2>Children's Privacy</h2>
+    <p>SizeCard is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.</p>
 
-<h2>Data Retention</h2>
-<ul>
-    <li>Account data is retained while your account is active</li>
-    <li>Data is automatically deleted after 365 days of inactivity</li>
-    <li>All data is deleted within 30 days of account closure</li>
-</ul>
+    <h2>Data Retention</h2>
+    <ul>
+        <li>Account data is retained while your account is active</li>
+        <li>Data is automatically deleted after 365 days of inactivity</li>
+        <li>All data is deleted within 30 days of account closure</li>
+    </ul>
 
-<h2>Changes to This Policy</h2>
-<p>We may update this Privacy Policy from time to time. We will notify you of material changes through the app or email.</p>
+    <h2>Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. We will notify you of material changes through the app or email.</p>
 
-<h2>Contact Information</h2>
-<p>For privacy inquiries or support:</p>
-<ul>
-    <li>Email: sizecardhelp@gmail.com</li>
-    <li>Response Time: 24-48 hours</li>
-</ul>
+    <h2>Contact Information</h2>
+    <p>For privacy inquiries or support:</p>
+    <ul>
+        <li>Email: sizecardhelp@gmail.com</li>
+        <li>Response Time: 24-48 hours</li>
+    </ul>
 
-<p><em>This Privacy Policy complies with GDPR, CCPA, Apple App Store Guidelines, and COPPA.</em></p>
-    
+    <p><em>This Privacy Policy complies with GDPR, CCPA, Apple App Store Guidelines, and COPPA.</em></p>
 </body>
 </html>
